@@ -3,7 +3,7 @@ A Discord bot repository based on Rust. Unusable state and still heavily under c
 
 #### Library Used
 - [serenity](https://github.com/serenity-rs/serenity) : Provide interface framework for Discord API in Rust language.
-- [sqlx](https://github.com/ant32/sqlx) : Command utility for managing database ORM query.
+- [sqlx](https://github.com/ant32/sqlx) : Asynchronous for checking query during compile-time.
 - [Tokio](https://github.com/tokio-rs/tokio) : Asynchronous runtime writed in Rust language.
 -[lavalink-rs](https://gitlab.com/nitsuga5124/lavalink-rs/) : Asynchronous rust crate for Lavalink audio node binder. (To be considered)
 - [Lavalink](https://github.com/Frederikam/Lavalink) : Audio node based on Lavaplayer. (To be considered)
@@ -11,7 +11,7 @@ A Discord bot repository based on Rust. Unusable state and still heavily under c
 #### Prerequisite
 - [Rust Toolchain](https://www.rust-lang.org/tools/install)
 - [Postgres12+](https://www.postgresql.org/download/)
-- [SQLx CLI](https://github.com/launchbadge/sqlx/tree/master/sqlx-cli#install)
+- [SQLx CLI](https://github.com/launchbadge/sqlx/tree/master/sqlx-cli#install) : Command utility for managing database ORM query. 
 - [Java JDK13+](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html) (for Lavalink usage)
 
 #### How to Use
