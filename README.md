@@ -37,4 +37,4 @@ cargo run
 **4.** To be updated
 
 #### Special Thanks to
-_Depression and cats._
+_Family_
